@@ -2,62 +2,69 @@
  
 <div align="center">
   <a href="https://portdev-bice.vercel.app">
-    <img src="https://img.shields.io/badge/Full%20Stack%20Developer%20(Java%2FNext.js)-3b82f6?style=for-the-badge&labelColor=020617&logo=vercel&logoColor=white" alt="Full Stack Developer Status"/>
+    <img src="https://img.shields.io/badge/Desenvolvedor%20Full%20Stack%20|%20Java%20%26%20Next.js-3b82f6?style=for-the-badge&labelColor=020617&logo=vercel&logoColor=white" alt="Desenvolvedor Full Stack Java e Next.js"/>
   </a>
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0e7e43?style=for-the-badge&logo=upwork&logoColor=white" alt="Open to Work Badge"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0e7e43?style=for-the-badge&logo=upwork&logoColor=white" alt="Disponível para Oportunidades"/>
 </div>
 
-### 💻 Breve Resumo Profissional
+### 🎯 Resumo de Valor e Expertise
 
-Desenvolvedor Full Stack (Java/Spring | Next.js/React). [cite_start]Especializado em criar soluções **escaláveis** com foco em **Qualidade de Software (SonarQube)** e práticas de **CI/CD (Azure DevOps)**[cite: 8]. Meu objetivo é entregar alto impacto em projetos de desenvolvimento web.
+Desenvolvedor Full Stack com 2+ anos de experiência na criação de soluções web escaláveis e de alto desempenho. Sou especialista em construir APIs robustas com **Java e Spring Boot** e entregar experiências de usuário fluidas com **Next.js e React**.
+
+Minha experiência profissional foca na **Qualidade de Software**, elevando métricas de projeto para **Nota A no SonarQube**, e na automação de processos de **CI/CD** via **Azure DevOps**.
 
 ---
 
-## 🚀 Minha Stack Técnica (Hard Skills)
+## 💻 Minha Stack Técnica em Imagens
 
-Aqui estão as tecnologias que utilizo em projetos de **alto desempenho** e **código limpo**:
+Tecnologias principais que impulsionam meus projetos de Full Stack:
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
-  <br/>
-
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
-  <br/>
-  
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BC2?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
 </div>
 
 ---
 
-## 📂 Principais Repositórios (Para Pinar)
+## 📂 Repositórios Principais (Para Pinar)
 
-Estes são os projetos que melhor demonstram minhas habilidades Full Stack. **Recomendo pinar esses 3 na sua página principal do GitHub.**
+Aqui estão meus projetos de destaque, que demonstram proficiência em arquitetura e desenvolvimento Full Stack:
 
-### 1. Barber Pro (SaaS em Desenvolvimento)
-* **Foco:** Aplicação Full Stack (Monorepo) de gestão de agendamentos para barbearias.
-* **Stack:** `Next.js`, `TypeScript`, `Prisma`, `PostgreSQL`, `NextAuth` e `Docker`.
-* **Destaque:** Implementação de autenticação e deploy em produção via conteinerização.
+### 1. Barber Pro (Sistema de Agendamento SaaS)
+Projeto que unifica Front-end moderno e práticas de Back-end escalável.
+
+* **Destaques:** É um sistema SaaS completo para gestão de barbearias, com foco em agendamento online e controle de clientes.
+* **Stack:** Next.js, React, TypeScript, Prisma ORM, PostgreSQL e NextAuth.
+* **Conquista:** Implementei a autenticação completa com NextAuth e utilizei Docker para conteinerização e deploy em produção.
 
 ### 2. API em Java/Spring Boot
-* **Foco:** Back-end robusto focado em arquitetura em camadas e segurança.
-* **Stack:** `Java`, `Spring Boot`, `PostgreSQL`, `Docker`.
-* **Destaque:** Definição de arquitetura com regras de negócio e testes unitários, preparada para **microsserviços**.
+Projeto crucial para demonstrar competência em Back-end robusto e arquitetura em camadas.
 
-### 3. Terra Certa (Hackathon/Demo)
-* **Foco:** Solução ecológica para uso consciente de pesticidas em práticas agrícolas sustentáveis.
-* **Stack:** `Python`, `Django`, `PostgreSQL`, `Docker`.
-* **Destaque:** Desenvolvido em equipe para um Hackathon, demonstrando desenvolvimento rápido e solução de problemas.
+* **Foco:** Criação de uma API RESTful de alta performance, com arquitetura em camadas, segurança e testes unitários.
+* **Stack:** Java, Spring Boot, PostgreSQL e Docker.
+* **Conquista:** Modelei dados e desenvolvi endpoints com regras de negócio complexas, otimizados para microsserviços e prontos para conteinerização.
+
+### 3. Site do Meu Casamento (Projeto Pessoal)
+Demonstração de proficiência em Front-end voltado à experiência do usuário e integração de dados.
+
+* **Foco:** Site personalizado para celebração do meu casamento, incluindo confirmação de presença e linha do tempo do casal.
+* **Stack:** JavaScript, React, Tailwind CSS, TypeScript, Prisma e PostgreSQL.
+* **Conquista:** Desenvolvimento de um projeto com dados dinâmicos e layout responsivo focado em usabilidade.
+
+### 4. Terra Certa (Solução Ecológica de Hackathon)
+Exemplo de desenvolvimento rápido e aplicação de tecnologias em soluções com propósito.
+
+* **Foco:** Solução ecológica desenvolvida durante hackathon da faculdade para promover o uso consciente e eficiente de pesticidas.
+* **Stack:** Python, Django, PostgreSQL e Docker.
+* **Conquista:** Demonstração de desenvolvimento ágil e aplicação da stack Python/Django em um problema real.
 
 ---
 
@@ -69,4 +76,4 @@ Estes são os projetos que melhor demonstram minhas habilidades Full Stack. **Re
 
 ---
 
-Qual é a próxima etapa que deseja otimizar: **LinkedIn** ou **Currículo (PDF)**?
+### Qual é o próximo passo de otimização: **LinkedIn** ou **Currículo**?
