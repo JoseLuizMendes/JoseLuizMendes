@@ -9,18 +9,18 @@
 
 ### 🎯 Resumo de Valor e Expertise
 
-Desenvolvedor Full Stack com 2+ anos de experiência na criação de soluções web escaláveis e de alto desempenho. Sou especialista em construir APIs robustas com **Java e Spring Boot** e entregar experiências de usuário fluidas com **Next.js e React**.
+Minha paixão é a arquitetura Back-end e o desenvolvimento Full Stack, materializada em projetos como **Barber Pro**, onde crio soluções web escaláveis e de alto desempenho. Sou especialista em APIs robustas com **Java e Spring Boot** e experiências de usuário fluidas com **Next.js e React**.
 
-Minha experiência profissional foca na **Qualidade de Software**, elevando métricas de projeto para **Nota A no SonarQube**, e na automação de processos de **CI/CD** via **Azure DevOps**.
+No ambiente profissional, minha experiência de 2+ anos envolve a aplicação de práticas avançadas de **CI/CD** via **Azure DevOps** e a garantia de **Qualidade de Software**, elevando métricas de projeto para **Nota A no SonarQube**.
 
 ---
 
-## 💻 Minha Stack Técnica em Imagens
+## 💻 Minha Stack Técnica
 
-Tecnologias principais que impulsionam meus projetos de Full Stack:
+As tecnologias principais que impulsionam meus projetos de Full Stack:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   
@@ -34,7 +34,7 @@ Tecnologias principais que impulsionam meus projetos de Full Stack:
 
 ---
 
-## 📂 Repositórios Principais (Para Pinar)
+## 📂 Repositórios Principais
 
 Aqui estão meus projetos de destaque, que demonstram proficiência em arquitetura e desenvolvimento Full Stack:
 
@@ -57,7 +57,7 @@ Demonstração de proficiência em Front-end voltado à experiência do usuário
 
 * **Foco:** Site personalizado para celebração do meu casamento, incluindo confirmação de presença e linha do tempo do casal.
 * **Stack:** JavaScript, React, Tailwind CSS, TypeScript, Prisma e PostgreSQL.
-* **Conquista:** Desenvolvimento de um projeto com dados dinâmicos e layout responsivo focado em usabilidade.
+* **Conquista:** Desenvolvimento de um projeto com dados dinâmicos e layout responsivo focado em usabilidade e design.
 
 ### 4. Terra Certa (Solução Ecológica de Hackathon)
 Exemplo de desenvolvimento rápido e aplicação de tecnologias em soluções com propósito.
@@ -73,7 +73,3 @@ Exemplo de desenvolvimento rápido e aplicação de tecnologias em soluções co
 * **LinkedIn:** [Meu Perfil Profissional](https://www.linkedin.com/in/jos%C3%A9-luiz-dos-santos-azeredo-mendes-ab5a10283/)
 * **Portfólio:** [PortDev](https://portdev-bice.vercel.app)
 * **Email:** josemendess004@gmail.com
-
----
-
-### Qual é o próximo passo de otimização: **LinkedIn** ou **Currículo**?
