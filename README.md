@@ -1,5 +1,7 @@
-# Olá! Eu sou o José Luiz Mendes 👋
- 
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+###
+
 <div align="center">
   <a href="https://portdev-bice.vercel.app">
     <img src="https://img.shields.io/badge/Desenvolvedor%20Full%20Stack%20|%20Java%20%26%20Next.js-3b82f6?style=for-the-badge&labelColor=020617&logo=vercel&logoColor=white" alt="Desenvolvedor Full Stack Java e Next.js"/>
@@ -7,75 +9,99 @@
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0e7e43?style=for-the-badge&logo=upwork&logoColor=white" alt="Disponível para Oportunidades"/>
 </div>
 
-### 🎯 Resumo de Valor e Expertise
+###
 
-Minha paixão é a arquitetura Back-end e o desenvolvimento Full Stack, materializada em projetos como **Barber Pro**, onde crio soluções web escaláveis e de alto desempenho. Sou especialista em APIs robustas com **Java e Spring Boot** e experiências de usuário fluidas com **Next.js e React**.
-
-No ambiente profissional, minha experiência de 2+ anos envolve a aplicação de práticas avançadas de **CI/CD** via **Azure DevOps** e a garantia de **Qualidade de Software**, elevando métricas de projeto para **Nota A no SonarQube**.
-
----
-
-## 💻 Minha Stack Técnica
-
-As tecnologias principais que impulsionam meus projetos de Full Stack:
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
 </div>
 
+### 🧑‍💻 Sobre Mim e Expertise
+
+Minha trajetória como desenvolvedor Full Stack é marcada pela iniciativa em projetos de alto impacto, onde crio soluções completas do zero. Sou especialista em Back-end com APIs robustas em **Java e Spring Boot** e adoro a experiência de construir interfaces fluidas e modernas usando **Next.js, React e Tailwind CSS**.
+
+#### Projetos de Inovação Própria:
+Meus principais projetos, como **Barber Pro** e **Bellessence**, demonstram a aplicação da minha stack completa, com foco em arquitetura de microsserviços, performance e deploy via **Docker**.
+
+#### Experiência Profissional e Maturidade:
+Com 2+ anos de vivência no setor público, minha experiência envolve manutenção de sistemas em C# e Java. Foco na maturidade de processos, aplicando ativamente **CI/CD** via **Azure DevOps** e garantindo a **Qualidade de Software**, elevando métricas de projeto para o padrão **Nota A no SonarQube**.
+
 ---
 
-## 📂 Repositórios Principais
+### 📂 Repositórios em Destaque
 
-Aqui estão meus projetos de destaque, que demonstram proficiência em arquitetura e desenvolvimento Full Stack:
+#### 1. barberpro (Sistema de Agendamento SaaS)
+* **Foco:** Sistema SaaS completo de gestão para barbearias, focado em agendamento online e controle de clientes.
+* **Stack:** Next.js, React, TypeScript, Tailwind CSS, PostgreSQL e Prisma ORM.
+* **Conquista:** Implementação de autenticação completa com NextAuth e conteinerização Docker para deploy em produção.
 
-### 1. Barber Pro (Sistema de Agendamento SaaS)
-Projeto que unifica Front-end moderno e práticas de Back-end escalável.
+#### 2. bellessence (E-commerce de Perfumaria)
+* **Foco:** Desenvolvimento de um e-commerce de perfumaria com foco em performance, experiência do usuário e catálogo dinâmico.
+* **Stack:** JavaScript, Next.js, React, Tailwind CSS e ShadCN UI.
+* **Conquista:** Demonstração de arquitetura de Front-end modular e otimização de renderização.
 
-* **Destaques:** É um sistema SaaS completo para gestão de barbearias, com foco em agendamento online e controle de clientes.
-* **Stack:** Next.js, React, TypeScript, Prisma ORM, PostgreSQL e NextAuth.
-* **Conquista:** Implementei a autenticação completa com NextAuth e utilizei Docker para conteinerização e deploy em produção.
-
-### 2. API em Java/Spring Boot
-Projeto crucial para demonstrar competência em Back-end robusto e arquitetura em camadas.
-
-* **Foco:** Criação de uma API RESTful de alta performance, com arquitetura em camadas, segurança e testes unitários.
-* **Stack:** Java, Spring Boot, PostgreSQL e Docker.
-* **Conquista:** Modelei dados e desenvolvi endpoints com regras de negócio complexas, otimizados para microsserviços e prontos para conteinerização.
-
-### 3. Site do Meu Casamento (Projeto Pessoal)
-Demonstração de proficiência em Front-end voltado à experiência do usuário e integração de dados.
-
-* **Foco:** Site personalizado para celebração do meu casamento, incluindo confirmação de presença e linha do tempo do casal.
+#### 3. wedding-new (Site do Meu Casamento)
+* **Foco:** Projeto Full Stack que aplica tecnologias modernas em contexto pessoal.
 * **Stack:** JavaScript, React, Tailwind CSS, TypeScript, Prisma e PostgreSQL.
-* **Conquista:** Desenvolvimento de um projeto com dados dinâmicos e layout responsivo focado em usabilidade e design.
+* **Conquista:** Gerenciamento de confirmação de presença (RSVP) e lista de presentes dinâmicos, com integração completa entre Front-end e Banco de Dados.
 
-### 4. Terra Certa (Solução Ecológica de Hackathon)
-Exemplo de desenvolvimento rápido e aplicação de tecnologias em soluções com propósito.
-
-* **Foco:** Solução ecológica desenvolvida durante hackathon da faculdade para promover o uso consciente e eficiente de pesticidas.
+#### 4. terracerta (Solução Ecológica de Hackathon)
+* **Foco:** Solução ecológica desenvolvida durante hackathon para uso consciente e eficiente de pesticidas.
 * **Stack:** Python, Django, PostgreSQL e Docker.
-* **Conquista:** Demonstração de desenvolvimento ágil e aplicação da stack Python/Django em um problema real.
+* **Conquista:** Desenvolvimento rápido de um MVP funcional em Python/Django, demonstrando adaptabilidade e foco em soluções sustentáveis.
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+### 🌐 Conecte-se Comigo
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoseLuizMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/JoseLuizMendes)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+</div>
 
----
+###
 
-## 🌐 Conecte-se Comigo
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseLuizMendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseLuizMendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=JoseLuizMendes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=JoseLuizMendes&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseLuizMendes&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
 
-* **LinkedIn:** [Meu Perfil Profissional](https://www.linkedin.com/in/jos%C3%A9-luiz-dos-santos-azeredo-mendes-ab5a10283/)
-* **Portfólio:** [PortDev](https://portdev-bice.vercel.app)
-* **Email:** josemendess004@gmail.com
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseLuizMendes/JoseLuizMendes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseLuizMendes/JoseLuizMendes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseLuizMendes/JoseLuizMendes/output/pacman-contribution-graph.svg">
+</picture>
