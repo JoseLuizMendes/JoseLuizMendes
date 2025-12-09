@@ -59,25 +59,25 @@ Com 2+ anos de vivência no setor público, minha experiência envolve manutenç
 
 ### 📂 Repositórios em Destaque
 
-#### 1. barberpro (Sistema de Agendamento SaaS)
+#### 1. BarberPro (Sistema de Agendamento SaaS)
 * **Foco:** Sistema SaaS completo de gestão para barbearias, focado em agendamento online e controle de clientes.
 * **Stack:** Next.js, React, TypeScript, Tailwind CSS, PostgreSQL e Prisma ORM.
 * **Conquista:** Implementação de autenticação completa com NextAuth e conteinerização Docker para deploy em produção.
 
-#### 2. bellessence (E-commerce de Perfumaria)
+#### 2. Bellessence (E-commerce de Perfumaria)
 * **Foco:** Desenvolvimento de um e-commerce de perfumaria com foco em performance, experiência do usuário e catálogo dinâmico.
 * **Stack:** JavaScript, Next.js, React, Tailwind CSS e ShadCN UI.
 * **Conquista:** Demonstração de arquitetura de Front-end modular e otimização de renderização.
 
-#### 3. wedding-new (Site do Meu Casamento)
+#### 3. Wedding (Site do Meu Casamento)
 * **Foco:** Projeto Full Stack que aplica tecnologias modernas em contexto pessoal.
 * **Stack:** JavaScript, React, Tailwind CSS, TypeScript, Prisma e PostgreSQL.
 * **Conquista:** Gerenciamento de confirmação de presença (RSVP) e lista de presentes dinâmicos, com integração completa entre Front-end e Banco de Dados.
 
-#### 4. terracerta (Solução Ecológica de Hackathon)
+#### 4. Terracerta (Solução Ecológica de Hackathon)
 * **Foco:** Solução ecológica desenvolvida durante hackathon para uso consciente e eficiente de pesticidas.
 * **Stack:** Python, Django, PostgreSQL e Docker.
-* **Conquista:** Desenvolvimento rápido de um MVP funcional em Python/Django, demonstrando adaptabilidade e foco em soluções sustentáveis.
+* **Conquista:** Desenvolvimento rápido de um MVP funcional em JavaScript, React e API's climáticas que são ocnsumidas no Frontend, demonstrando adaptabilidade e foco em soluções sustentáveis.
 
 ---
 
