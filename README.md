@@ -9,7 +9,7 @@
   <a href="https://mende-shift.vercel.app">
     <img src="https://img.shields.io/badge/Portfólio-mende--shift-3b82f6?style=for-the-badge&labelColor=020617&logo=vercel&logoColor=white" alt="Portfólio"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-SLUG-AQUI/">
+  <a href="https://www.linkedin.com/in/josé-luiz-dos-santos-azeredo-mendes/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:josemendess004@gmail.com">
