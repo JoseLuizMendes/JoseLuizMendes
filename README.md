@@ -144,7 +144,7 @@ Remoto, ou presencial na Grande Vitória
 </td>
 </tr>
 <tr>
-<td width="10%">
+<td width="33%">
 <a href="https://github.com/JoseLuizMendes/Belessence"><img src="assets/p-belessence.png" width="100%" alt="Belessence — e-commerce Next.js para cliente real"/></a>
 </td>
 <td width="50%">
