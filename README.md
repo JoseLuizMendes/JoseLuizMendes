@@ -134,7 +134,7 @@ Remoto, ou presencial na Grande Vitória
 
 ## `04` &nbsp; Projetos
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%">
 <a href="https://github.com/JoseLuizMendes/rotina-app"><img src="assets/p-bipday.png" width="100%" alt="BipDay — PWA de rotina com alerta de transição, Next.js 16 e Web Push"/></a>
