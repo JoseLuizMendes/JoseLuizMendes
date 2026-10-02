@@ -136,15 +136,15 @@ Remoto, ou presencial na Grande Vitória
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <a href="https://github.com/JoseLuizMendes/rotina-app"><img src="assets/p-bipday.png" width="100%" alt="BipDay — PWA de rotina com alerta de transição, Next.js 16 e Web Push"/></a>
 </td>
-<td width="50%">
+<td width="33%">
 <a href="https://github.com/JoseLuizMendes/My-Wedding-New"><img src="assets/p-wedding.png" width="100%" alt="My Wedding — RSVP e lista de presentes com checkout Mercado Pago"/></a>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="10%">
 <a href="https://github.com/JoseLuizMendes/Belessence"><img src="assets/p-belessence.png" width="100%" alt="Belessence — e-commerce Next.js para cliente real"/></a>
 </td>
 <td width="50%">
