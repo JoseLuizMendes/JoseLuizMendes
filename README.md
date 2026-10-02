@@ -43,9 +43,9 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 | | |
 |:--|:--|
-| ### −40% | no prazo de entrega do **RAÍZES**, sucessor do SIARHES (gestão de pessoas com mais de 95 mil vínculos do estado), com o roadmap de modernização que desenhei — replicado em um projeto de Santa Catarina |
-| ### Nota A | no **SonarQube** em 100% dos repositórios auditados, como líder técnico da governança de código do Portal do Servidor |
-| ### 99/100 | de **Real Experience Score** em aplicação Next.js medida com usuários reais: 8 ms ao primeiro toque, zero layout shift, TTFB de 0,03 s |
+| ###−40% | no prazo de entrega do **RAÍZES**, sucessor do SIARHES (gestão de pessoas com mais de 95 mil vínculos do estado), com o roadmap de modernização que desenhei — replicado em um projeto de Santa Catarina |
+| ###Nota A | no **SonarQube** em 100% dos repositórios auditados, como líder técnico da governança de código do Portal do Servidor |
+| ###99/100 | de **Real Experience Score** em aplicação Next.js medida com usuários reais: 8 ms ao primeiro toque, zero layout shift, TTFB de 0,03 s |
 
 <br/>
 
