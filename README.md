@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner1" alt="José Luiz Mendes — Web Developer e Software Engineer | Next.js, React, TypeScript, Node.js" width="100%"/>
+<img src="assets/banner1.jpg" alt="José Luiz Mendes — Web Developer e Software Engineer | Next.js, React, TypeScript, Node.js" width="100%"/>
 
 <br/><br/>
 
