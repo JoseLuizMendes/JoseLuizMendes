@@ -30,21 +30,21 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **ONDE ESTOU**
 
 Vitória, ES &nbsp;·&nbsp; Brasil
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **O QUE FAÇO**
 
 Web · Front-end · Integrações e APIs
 
 </td>
-<td width="33%" valign="top">
+<td width="100%" valign="top">
 
 **MODELO**
 
