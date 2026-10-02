@@ -28,29 +28,16 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
-
-**ONDE ESTOU**
-
-Vitória, ES &nbsp;·&nbsp; Brasil
-
-</td>
-<td width="33%" valign="top">
-
-**O QUE FAÇO**
-
-Web · Front-end · Integrações e APIs
-
-</td>
-<td width="33%" valign="top">
-
-**MODELO**
-
-Remoto, ou presencial na Grande Vitória
-
-</td>
+<td width="34%" align="center"><b>ONDE ESTOU</b></td>
+<td width="33%" align="center"><b>O QUE FAÇO</b></td>
+<td width="33%" align="center"><b>MODELO</b></td>
+</tr>
+<tr>
+<td width="34%" align="center">Vitória, ES · Brasil</td>
+<td width="33%" align="center">Web · Front-end · Integrações e APIs</td>
+<td width="33%" align="center">Remoto, ou presencial na Grande Vitória</td>
 </tr>
 </table>
 
@@ -136,15 +123,15 @@ Remoto, ou presencial na Grande Vitória
 
 <table width="100%">
 <tr>
-<td width="33%">
+<td width="50%">
 <a href="https://github.com/JoseLuizMendes/rotina-app"><img src="assets/p-bipday.png" width="100%" alt="BipDay — PWA de rotina com alerta de transição, Next.js 16 e Web Push"/></a>
 </td>
-<td width="33%">
+<td width="50%">
 <a href="https://github.com/JoseLuizMendes/My-Wedding-New"><img src="assets/p-wedding.png" width="100%" alt="My Wedding — RSVP e lista de presentes com checkout Mercado Pago"/></a>
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 <a href="https://github.com/JoseLuizMendes/Belessence"><img src="assets/p-belessence.png" width="100%" alt="Belessence — e-commerce Next.js para cliente real"/></a>
 </td>
 <td width="50%">
