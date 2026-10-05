@@ -161,7 +161,7 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 <br/>
 
-**[BipDay](https://github.com/JoseLuizMendes/rotina-app)** &nbsp;<sub>`PWA · TDAH`</sub>
+**BipDay** &nbsp;<sub>`PWA · TDAH · repositório privado`</sub>
 
 O diferencial não é mais uma lista de tarefas: é o **bip** — o alerta de transição que avisa pouco antes de cada bloco começar, porque a dificuldade costuma não ser saber o que fazer, e sim trocar de contexto na hora certa. Timer visível e sequência sem punição: falhar não pinta nada de vermelho.
 
