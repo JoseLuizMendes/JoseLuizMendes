@@ -14,9 +14,6 @@
 
 <br/>
 
-**[Sobre](#sobre)** &nbsp;·&nbsp; **[Como eu trabalho](#metodo)** &nbsp;·&nbsp; **[Stack](#stack)** &nbsp;·&nbsp; **[Projetos](#projetos)** &nbsp;·&nbsp; **[GitHub](#github)** &nbsp;·&nbsp; **[Contato](#contato)**
-
-</div>
 
 <img src="assets/rule.png" width="100%" alt=""/>
 
@@ -51,19 +48,6 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 <img src="assets/rule.png" width="100%" alt=""/>
 
 <a id="metodo"></a>
-
-<table width="100%">
-<tr>
-<td width="34%" align="center"><b>ONDE ESTOU</b></td>
-<td width="33%" align="center"><b>O QUE FAÇO</b></td>
-<td width="33%" align="center"><b>MODELO</b></td>
-</tr>
-<tr>
-<td width="34%" align="center">Vitória, ES · Brasil</td>
-<td width="33%" align="center">Web · Front-end · Integrações e APIs</td>
-<td width="33%" align="center">Remoto, ou presencial na Grande Vitória</td>
-</tr>
-</table>
 
 <img src="assets/rule.png" width="100%" alt=""/>
 
@@ -284,13 +268,6 @@ Mantenho os projetos acima como laboratório porque errar ali é barato e me dei
 
 [![Portfólio](https://img.shields.io/badge/VER_O_PORTFÓLIO-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](https://mende-shift.vercel.app)
 [![Email](https://img.shields.io/badge/MANDAR_UM_EMAIL-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](mailto:josemendess004@gmail.com)
-
-
-### Aberto a conversar sobre vagas de Engenheiro de Software, Front-end e Web
-
-[![Portfólio](https://img.shields.io/badge/VER_O_PORTFÓLIO-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](https://mende-shift.vercel.app)
-[![Email](https://img.shields.io/badge/MANDAR_UM_EMAIL-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](mailto:josemendess004@gmail.com)
-
 <sub>
 
 **VITÓRIA, ES** &nbsp;·&nbsp; REMOTO OU PRESENCIAL NA GRANDE VITÓRIA &nbsp;·&nbsp; [JOSEMENDESS004@GMAIL.COM](mailto:josemendess004@gmail.com)
