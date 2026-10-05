@@ -224,7 +224,7 @@ Mantenho os projetos acima como laboratório porque errar ali é barato e me dei
 
 <sub>
 
-**VITÓRIA, ES** &nbsp;·&nbsp; REMOTO OU PRESENCIAL NA GRANDE VITÓRIA &nbsp;·&nbsp; [JOSEMENDESS004@GMAIL.COM](mailto:josemendess004@gmail.com)
+**VITÓRIA, ES** &nbsp;·&nbsp; REMOTO OU PRESENCIAL NA GRANDE VITÓRIA &nbsp;·&nbsp; [josemendess004@gmail.com](mailto:josemendess004@gmail.com)
 
 </sub>
 
