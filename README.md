@@ -12,8 +12,15 @@
 
 **[Sobre](#sobre)** &nbsp;·&nbsp; **[Como eu trabalho](#metodo)** &nbsp;·&nbsp; **[Stack](#stack)** &nbsp;·&nbsp; **[Projetos](#projetos)** &nbsp;·&nbsp; **[GitHub](#github)** &nbsp;·&nbsp; **[Contato](#contato)**
 
+<br/>
+
+**[Sobre](#sobre)** &nbsp;·&nbsp; **[Como eu trabalho](#metodo)** &nbsp;·&nbsp; **[Stack](#stack)** &nbsp;·&nbsp; **[Projetos](#projetos)** &nbsp;·&nbsp; **[GitHub](#github)** &nbsp;·&nbsp; **[Contato](#contato)**
+
 </div>
 
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="sobre"></a>
 <img src="assets/rule.png" width="100%" alt=""/>
 
 <a id="sobre"></a>
@@ -45,6 +52,23 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 <a id="metodo"></a>
 
+<table width="100%">
+<tr>
+<td width="34%" align="center"><b>ONDE ESTOU</b></td>
+<td width="33%" align="center"><b>O QUE FAÇO</b></td>
+<td width="33%" align="center"><b>MODELO</b></td>
+</tr>
+<tr>
+<td width="34%" align="center">Vitória, ES · Brasil</td>
+<td width="33%" align="center">Web · Front-end · Integrações e APIs</td>
+<td width="33%" align="center">Remoto, ou presencial na Grande Vitória</td>
+</tr>
+</table>
+
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="metodo"></a>
+
 ## `02` &nbsp; Como eu trabalho
 
 > **Teste antes do commit.** &nbsp;Vitest ou Jest no unitário, Playwright no end-to-end, com husky e lint-staged barrando o que não deveria entrar no repositório.
@@ -53,6 +77,9 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 > **Decisão com motivo.** &nbsp;Escolher entre dois caminhos e registrar por quê. É o que separa código que sobrevive de código que alguém reescreve em seis meses.
 
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="stack"></a>
 <img src="assets/rule.png" width="100%" alt=""/>
 
 <a id="stack"></a>
@@ -77,6 +104,10 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 <summary><b>Corporativo &nbsp;·&nbsp; o que uso na TOTVS e usei no Prodest</b></summary>
 
 <br/>
+<details>
+<summary><b>Corporativo &nbsp;·&nbsp; o que uso na TOTVS e usei no Prodest</b></summary>
+
+<br/>
 
 ![C#](https://img.shields.io/badge/C%23-16181d?style=flat-square&logo=sharp&logoColor=a179dc&labelColor=0b0c0f)
 ![.NET](https://img.shields.io/badge/.NET-16181d?style=flat-square&logo=dotnet&logoColor=512BD4&labelColor=0b0c0f)
@@ -85,6 +116,12 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-16181d?style=flat-square&logo=azuredevops&logoColor=0078D7&labelColor=0b0c0f)
 ![SonarQube](https://img.shields.io/badge/SonarQube-16181d?style=flat-square&logo=sonarqubeserver&logoColor=4E9BCD&labelColor=0b0c0f)
 
+</details>
+
+<details>
+<summary><b>Qualidade &nbsp;·&nbsp; o que roda antes do merge</b></summary>
+
+<br/>
 </details>
 
 <details>
@@ -105,6 +142,12 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 <summary><b>Também trabalho com</b></summary>
 
 <br/>
+</details>
+
+<details>
+<summary><b>Também trabalho com</b></summary>
+
+<br/>
 
 ![Java](https://img.shields.io/badge/Java-16181d?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=0b0c0f)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-16181d?style=flat-square&logo=springboot&logoColor=6DB33F&labelColor=0b0c0f)
@@ -113,6 +156,11 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 ![MongoDB](https://img.shields.io/badge/MongoDB-16181d?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=0b0c0f)
 ![GraphQL](https://img.shields.io/badge/GraphQL-16181d?style=flat-square&logo=graphql&logoColor=E10098&labelColor=0b0c0f)
 
+</details>
+
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="projetos"></a>
 </details>
 
 <img src="assets/rule.png" width="100%" alt=""/>
@@ -162,6 +210,7 @@ PWA instalável com service worker gerado no build e notificações Web Push com
 <br/>
 
 **[My Wedding](https://github.com/JoseLuizMendes/My-Wedding-New)** &nbsp;<sub>`em produção`</sub>
+**[My Wedding](https://github.com/JoseLuizMendes/My-Wedding-New)** &nbsp;<sub>`em produção`</sub>
 
 Confirmação de presença para dois eventos, lista de presentes com reserva e fundo de lua de mel com checkout e webhooks do Mercado Pago. Autenticação de convidado por código OTP, upload de fotos com compressão no browser antes de subir para o Vercel Blob, e e-mail transacional.
 
@@ -170,17 +219,24 @@ Usuários, pagamentos e uploads reais — foi o site do meu próprio casamento, 
 <br/>
 
 **[Belessence](https://github.com/JoseLuizMendes/Belessence)** &nbsp;<sub>`cliente real`</sub>
+**[Belessence](https://github.com/JoseLuizMendes/Belessence)** &nbsp;<sub>`cliente real`</sub>
 
 Catálogo com filtros, carrinho com estado persistente, checkout e painel de gestão de pedidos. UI baseada em componentes para que a proprietária atualize o catálogo sem conhecimento técnico. Mobile-first, adequado a uma marca com aquisição por redes sociais.
 
 <br/>
 
 **[MendeShift](https://github.com/JoseLuizMendes/Mendeshift)** &nbsp;<sub>`Real Experience Score 99/100`</sub>
+**[MendeShift](https://github.com/JoseLuizMendes/Mendeshift)** &nbsp;<sub>`Real Experience Score 99/100`</sub>
 
 Medido com usuários reais: 8 ms ao primeiro toque, zero layout shift, TTFB de 0,03 s. GSAP e Lenis em vez de biblioteca de scroll pronta para reduzir bundle, coordenação entre componentes por eventos de DOM sem contexto global, i18n com next-intl e build Docker multi-stage com output standalone.
 
 Blog em MDX com realce de sintaxe via Shiki, formulário de contato com rate limiting em Upstash Redis e envio por Resend.
 
+</details>
+
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="github"></a>
 </details>
 
 <img src="assets/rule.png" width="100%" alt=""/>
@@ -193,13 +249,17 @@ Blog em MDX com realce de sintaxe via Shiki, formulário de contato com rate lim
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseLuizMendes&show_icons=true&rank_icon=github&hide_border=true&bg_color=0b0c0f&title_color=ff4d4f&text_color=9aa1ad&icon_color=ff4d4f&ring_color=ff4d4f&card_width=430" alt="Estatísticas do GitHub de José Luiz Mendes"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuizMendes&layout=compact&langs_count=8&hide_border=true&bg_color=0b0c0f&title_color=ff4d4f&text_color=9aa1ad&card_width=330" alt="Linguagens mais usadas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseLuizMendes&show_icons=true&rank_icon=github&hide_border=true&bg_color=0b0c0f&title_color=ff4d4f&text_color=9aa1ad&icon_color=ff4d4f&ring_color=ff4d4f&card_width=430" alt="Estatísticas do GitHub de José Luiz Mendes"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuizMendes&layout=compact&langs_count=8&hide_border=true&bg_color=0b0c0f&title_color=ff4d4f&text_color=9aa1ad&card_width=330" alt="Linguagens mais usadas"/>
 
 <br/><br/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=JoseLuizMendes&hide_border=true&background=0b0c0f&stroke=1e2127&ring=ff4d4f&fire=ff4d4f&currStreakLabel=ff4d4f&sideLabels=9aa1ad&currStreakNum=f4f6f8&sideNums=f4f6f8&dates=5a606b&excludeDaysLabel=5a606b" alt="Sequência de contribuições"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=JoseLuizMendes&hide_border=true&background=0b0c0f&stroke=1e2127&ring=ff4d4f&fire=ff4d4f&currStreakLabel=ff4d4f&sideLabels=9aa1ad&currStreakNum=f4f6f8&sideNums=f4f6f8&dates=5a606b&excludeDaysLabel=5a606b" alt="Sequência de contribuições"/>
 
 </div>
 
+<img src="assets/rule.png" width="100%" alt=""/>
 <img src="assets/rule.png" width="100%" alt=""/>
 
 ## `06` &nbsp; Estudando agora
@@ -214,8 +274,17 @@ Mantenho os projetos acima como laboratório porque errar ali é barato e me dei
 <img src="assets/rule.png" width="100%" alt=""/>
 
 <a id="contato"></a>
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="contato"></a>
 
 <div align="center">
+
+### Aberto a conversar sobre vagas de Engenheiro de Software, Front-end e Web
+
+[![Portfólio](https://img.shields.io/badge/VER_O_PORTFÓLIO-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](https://mende-shift.vercel.app)
+[![Email](https://img.shields.io/badge/MANDAR_UM_EMAIL-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](mailto:josemendess004@gmail.com)
+
 
 ### Aberto a conversar sobre vagas de Engenheiro de Software, Front-end e Web
 
@@ -227,5 +296,6 @@ Mantenho os projetos acima como laboratório porque errar ali é barato e me dei
 **VITÓRIA, ES** &nbsp;·&nbsp; REMOTO OU PRESENCIAL NA GRANDE VITÓRIA &nbsp;·&nbsp; [JOSEMENDESS004@GMAIL.COM](mailto:josemendess004@gmail.com)
 
 </sub>
+
 
 </div>
