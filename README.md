@@ -5,7 +5,7 @@
 <br/><br/>
 
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-mende--shift.vercel.app-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](https://mende-shift.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-conectar-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](https://www.linkedin.com/in/SEU-SLUG-AQUI/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-conectar-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](https://www.linkedin.com/in/jos%C3%A9-luiz-dos-santos-azeredo-mendes/)
 [![Email](https://img.shields.io/badge/EMAIL-falar_comigo-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](mailto:josemendess004@gmail.com)
 
 <br/>
@@ -126,24 +126,32 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 <td width="50%">
 <img src="assets/art-bipday.jpg" width="100%" alt="BipDay rodando no celular e no desktop"/>
 <br/><br/>
-<a href="https://github.com/JoseLuizMendes/rotina-app"><img src="assets/p-bipday.png" width="100%" alt="BipDay — PWA de rotina com alerta de transição, Next.js 16 e Web Push"/></a>
+<img src="assets/p-bipday.png" width="100%" alt="BipDay — PWA de rotina com alerta de transição, Next.js 16 e Web Push"/>
+<br/>
+<sub>repositório privado · lançamento em breve</sub>
 </td>
 <td width="50%">
 <img src="assets/art-wedding.jpg" width="100%" alt="My Wedding em desktop e mobile"/>
 <br/><br/>
-<a href="https://github.com/JoseLuizMendes/My-Wedding-New"><img src="assets/p-wedding.png" width="100%" height="800px" alt="My Wedding — RSVP e lista de presentes com checkout Mercado Pago"/></a>
+<a href="https://wedding-new-ruddy.vercel.app/casamento"><img src="assets/p-wedding.png" width="100%" alt="My Wedding — RSVP e lista de presentes com checkout Mercado Pago"/></a>
+<br/>
+<sub><a href="https://wedding-new-ruddy.vercel.app/casamento">Ver online</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <img src="assets/art-belessence.jpg" width="100%" alt="Belessence em desktop e mobile"/>
 <br/><br/>
-<a href="https://github.com/JoseLuizMendes/Belessence"><img src="assets/p-belessence.png" width="100%" alt="Belessence — e-commerce Next.js para cliente real"/></a>
+<a href="https://belessence.vercel.app"><img src="assets/p-belessence.png" width="100%" alt="Belessence — e-commerce Next.js para cliente real"/></a>
+<br/>
+<sub><a href="https://belessence.vercel.app">Ver online</a> &nbsp;·&nbsp; <a href="https://github.com/JoseLuizMendes/Belessence">Código</a></sub>
 </td>
 <td width="50%">
 <img src="assets/art-mendeshift.jpg" width="100%" alt="MendeShift em desktop e mobile"/>
 <br/><br/>
-<a href="https://github.com/JoseLuizMendes/Mendeshift"><img src="assets/p-mendeshift.png" width="100%" alt="MendeShift — portfólio Next.js com Real Experience Score 99/100"/></a>
+<a href="https://mende-shift.vercel.app"><img src="assets/p-mendeshift.png" width="100%" alt="MendeShift — portfólio Next.js com Real Experience Score 99/100"/></a>
+<br/>
+<sub><a href="https://mende-shift.vercel.app">Ver online</a> &nbsp;·&nbsp; <a href="https://github.com/JoseLuizMendes/Mendeshift">Código</a></sub>
 </td>
 </tr>
 </table>
