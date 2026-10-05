@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:'Bebas Neue';src:url('https://cdn.jsdelivr.net/npm/@fontsource/bebas-neue/files/bebas-neue-latin-400-normal.woff2') format('woff2');font-weight:400}
+@font-face{font-family:'IBM Plex Mono';src:url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-400-normal.woff2') format('woff2');font-weight:400}
+@font-face{font-family:'IBM Plex Mono';src:url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-500-normal.woff2') format('woff2');font-weight:500}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1280px;height:440px}
+body{background:#0b0c0f;font-family:'IBM Plex Mono',monospace;overflow:hidden;position:relative}
+
+.bg{position:absolute;inset:0;
+  background-image:url('bg-recolored.png');
+  background-size:cover;background-position:center 74%}
+/* darken top + bottom so the type never fights the artwork */
+.veil{position:absolute;inset:0;
+  background:linear-gradient(180deg,rgba(11,12,15,.80) 0%,rgba(11,12,15,.52) 34%,rgba(11,12,15,.30) 66%,rgba(11,12,15,.78) 100%)}
+.vign{position:absolute;inset:0;
+  background:radial-gradient(ellipse at 50% 42%,rgba(11,12,15,.30) 0%,transparent 34%,rgba(11,12,15,.52) 100%)}
+.grid{position:absolute;inset:0;
+  background-image:linear-gradient(to right,rgba(255,255,255,.022) 1px,transparent 1px),
+                   linear-gradient(to bottom,rgba(255,255,255,.022) 1px,transparent 1px);
+  background-size:64px 64px}
+.noise{position:absolute;inset:0;opacity:.05;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/></filter><rect width='160' height='160' filter='url(%23n)'/></svg>")}
+
+.scrim{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:1180px;height:400px;
+  background:radial-gradient(ellipse at center,rgba(11,12,15,.52) 0%,rgba(11,12,15,.34) 40%,rgba(11,12,15,.10) 70%,transparent 100%)}
+.wrap{position:relative;height:100%;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;text-align:center;padding:0 60px}
+
+.eyebrow{font-size:12px;font-weight:500;letter-spacing:.30em;text-transform:uppercase;color:#ff6264;text-shadow:0 1px 14px rgba(11,12,15,.9)}
+.eyebrow span{color:#8a909c}
+
+.title{font-family:'Bebas Neue';font-size:84px;line-height:1;letter-spacing:.055em;
+  color:#f4f6f8;margin-top:20px;display:flex;align-items:center;gap:22px;
+  text-shadow:0 2px 28px rgba(11,12,15,.75)}
+.title em{font-style:normal;color:#ff4d4f}
+.code{font-family:'IBM Plex Mono',monospace;font-size:26px;font-weight:500;letter-spacing:.02em;
+  color:#ff4d4f;border:1px solid rgba(255,77,79,.42);border-radius:4px;padding:7px 13px 8px;
+  background:rgba(255,77,79,.09);transform:translateY(-3px)}
+
+.rule{width:112px;height:2px;background:#ff4d4f;margin-top:26px;border-radius:2px}
+
+.sub{margin-top:22px;font-size:14.5px;line-height:1.6;color:#c3c8d1;text-shadow:0 1px 16px rgba(11,12,15,.9);letter-spacing:.01em;max-width:760px}
+.sub b{color:#f4f6f8;font-weight:500}
+
+.foot{position:absolute;left:0;right:0;bottom:26px;text-align:center;
+  font-size:12.5px;color:#8a909c;letter-spacing:.12em;text-shadow:0 1px 14px rgba(11,12,15,.95)}
+.foot i{color:#ff4d4f;font-style:normal}
+.bar{position:absolute;left:0;right:0;bottom:0;height:4px;
+  background:linear-gradient(90deg,#ff4d4f 0%,#ff4d4f 26%,#2a2e36 26%,#2a2e36 100%)}
+</style></head><body>
+<div class="bg"></div><div class="veil"></div><div class="vign"></div>
+<div class="grid"></div><div class="noise"></div>
+
+<div class="scrim"></div>
+<div class="wrap">
+  <div class="eyebrow">José Luiz Mendes <span>· Software Engineer</span></div>
+  <div class="title">BEM-VINDO AO MEU <em>GITHUB</em> <span class="code">&lt;/&gt;</span></div>
+  <div class="rule"></div>
+  <div class="sub">Desenvolvimento <b>web</b> e <b>integrações</b> — do front-end ao contrato da API.</div>
+</div>
+
+<div class="foot">$ <i>git</i> clone — fique à vontade pra explorar</div>
+<div class="bar"></div>
+</body></html>

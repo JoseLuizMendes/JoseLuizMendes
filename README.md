@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner1.jpg" alt="José Luiz Mendes — Web Developer e Software Engineer" width="100%"/>
+<img src="assets/banner1.jpg" alt="José Luiz Mendes — Web Developer e Software Engineer | Next.js, React, TypeScript, Node.js" width="100%"/>
 
 <br/><br/>
 
@@ -8,9 +8,15 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-conectar-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](https://www.linkedin.com/in/SEU-SLUG-AQUI/)
 [![Email](https://img.shields.io/badge/EMAIL-falar_comigo-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](mailto:josemendess004@gmail.com)
 
+<br/>
+
+**[Sobre](#sobre)** &nbsp;·&nbsp; **[Como eu trabalho](#metodo)** &nbsp;·&nbsp; **[Stack](#stack)** &nbsp;·&nbsp; **[Projetos](#projetos)** &nbsp;·&nbsp; **[GitHub](#github)** &nbsp;·&nbsp; **[Contato](#contato)**
+
 </div>
 
-<br/>
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="sobre"></a>
 
 ## `01` &nbsp; Sobre
 
@@ -22,6 +28,23 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 <br/>
 
+<table width="100%">
+<tr>
+<td width="34%" align="center"><b>ONDE ESTOU</b></td>
+<td width="33%" align="center"><b>O QUE FAÇO</b></td>
+<td width="33%" align="center"><b>MODELO</b></td>
+</tr>
+<tr>
+<td width="34%" align="center">Vitória, ES · Brasil</td>
+<td width="33%" align="center">Web · Front-end · Integrações e APIs</td>
+<td width="33%" align="center">Remoto, ou presencial na Grande Vitória</td>
+</tr>
+</table>
+
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="metodo"></a>
+
 ## `02` &nbsp; Como eu trabalho
 
 > **Teste antes do commit.** &nbsp;Vitest ou Jest no unitário, Playwright no end-to-end, com husky e lint-staged barrando o que não deveria entrar no repositório.
@@ -30,7 +53,9 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 > **Decisão com motivo.** &nbsp;Escolher entre dois caminhos e registrar por quê. É o que separa código que sobrevive de código que alguém reescreve em seis meses.
 
-<br/>
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="stack"></a>
 
 ## `03` &nbsp; Stack
 
@@ -48,7 +73,10 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 ![Tailwind](https://img.shields.io/badge/Tailwind_4-16181d?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=0b0c0f)
 ![Docker](https://img.shields.io/badge/Docker-16181d?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0b0c0f)
 
-**Em produção, profissionalmente**
+<details>
+<summary><b>Corporativo &nbsp;·&nbsp; o que uso na TOTVS e usei no Prodest</b></summary>
+
+<br/>
 
 ![C#](https://img.shields.io/badge/C%23-16181d?style=flat-square&logo=sharp&logoColor=a179dc&labelColor=0b0c0f)
 ![.NET](https://img.shields.io/badge/.NET-16181d?style=flat-square&logo=dotnet&logoColor=512BD4&labelColor=0b0c0f)
@@ -57,7 +85,12 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-16181d?style=flat-square&logo=azuredevops&logoColor=0078D7&labelColor=0b0c0f)
 ![SonarQube](https://img.shields.io/badge/SonarQube-16181d?style=flat-square&logo=sonarqubeserver&logoColor=4E9BCD&labelColor=0b0c0f)
 
-**Qualidade**
+</details>
+
+<details>
+<summary><b>Qualidade &nbsp;·&nbsp; o que roda antes do merge</b></summary>
+
+<br/>
 
 ![Vitest](https://img.shields.io/badge/Vitest-16181d?style=flat-square&logo=vitest&logoColor=6E9F18&labelColor=0b0c0f)
 ![Jest](https://img.shields.io/badge/Jest-16181d?style=flat-square&logo=jest&logoColor=C21325&labelColor=0b0c0f)
@@ -66,7 +99,12 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 ![Prettier](https://img.shields.io/badge/Prettier-16181d?style=flat-square&logo=prettier&logoColor=F7B93E&labelColor=0b0c0f)
 ![Husky](https://img.shields.io/badge/Husky-16181d?style=flat-square&logo=git&logoColor=F05032&labelColor=0b0c0f)
 
-**Também já usei**
+</details>
+
+<details>
+<summary><b>Também trabalho com</b></summary>
+
+<br/>
 
 ![Java](https://img.shields.io/badge/Java-16181d?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=0b0c0f)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-16181d?style=flat-square&logo=springboot&logoColor=6DB33F&labelColor=0b0c0f)
@@ -75,19 +113,47 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 ![MongoDB](https://img.shields.io/badge/MongoDB-16181d?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=0b0c0f)
 ![GraphQL](https://img.shields.io/badge/GraphQL-16181d?style=flat-square&logo=graphql&logoColor=E10098&labelColor=0b0c0f)
 
-<br/>
+</details>
+
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="projetos"></a>
 
 ## `04` &nbsp; Projetos
 
-### [BipDay](https://github.com/JoseLuizMendes/rotina-app) &nbsp;<sub>`PWA · TDAH`</sub>
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="assets/art-bipday.jpg" width="100%" alt="BipDay rodando no celular e no desktop"/>
+<br/><br/>
+<a href="https://github.com/JoseLuizMendes/rotina-app"><img src="assets/p-bipday.png" width="100%" alt="BipDay — PWA de rotina com alerta de transição, Next.js 16 e Web Push"/></a>
+</td>
+<td width="50%">
+<img src="assets/art-wedding.jpg" width="100%" alt="My Wedding em desktop e mobile"/>
+<br/><br/>
+<a href="https://github.com/JoseLuizMendes/My-Wedding-New"><img src="assets/p-wedding.png" width="100%" alt="My Wedding — RSVP e lista de presentes com checkout Mercado Pago"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="assets/art-belessence.jpg" width="100%" alt="Belessence em desktop e mobile"/>
+<br/><br/>
+<a href="https://github.com/JoseLuizMendes/Belessence"><img src="assets/p-belessence.png" width="100%" alt="Belessence — e-commerce Next.js para cliente real"/></a>
+</td>
+<td width="50%">
+<img src="assets/art-mendeshift.jpg" width="100%" alt="MendeShift em desktop e mobile"/>
+<br/><br/>
+<a href="https://github.com/JoseLuizMendes/Mendeshift"><img src="assets/p-mendeshift.png" width="100%" alt="MendeShift — portfólio Next.js com Real Experience Score 99/100"/></a>
+</td>
+</tr>
+</table>
 
-![Next.js](https://img.shields.io/badge/Next.js_16-16181d?style=flat-square&logo=nextdotjs&logoColor=f4f6f8&labelColor=0b0c0f)
-![React](https://img.shields.io/badge/React_19-16181d?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0b0c0f)
-![Prisma](https://img.shields.io/badge/Prisma_7-16181d?style=flat-square&logo=prisma&logoColor=f4f6f8&labelColor=0b0c0f)
-![Neon](https://img.shields.io/badge/Neon_Postgres-16181d?style=flat-square&logo=postgresql&logoColor=00E599&labelColor=0b0c0f)
-![Auth.js](https://img.shields.io/badge/Auth.js_v5-16181d?style=flat-square&logo=auth0&logoColor=f4f6f8&labelColor=0b0c0f)
-![Web Push](https://img.shields.io/badge/Serwist_·_Web_Push-16181d?style=flat-square&logo=pwa&logoColor=5A0FC8&labelColor=0b0c0f)
-![Playwright](https://img.shields.io/badge/Playwright-16181d?style=flat-square&logo=playwright&logoColor=2EAD33&labelColor=0b0c0f)
+<details>
+<summary><b>O que tem dentro de cada um</b></summary>
+
+<br/>
+
+**[BipDay](https://github.com/JoseLuizMendes/rotina-app)** &nbsp;<sub>`PWA · TDAH`</sub>
 
 O diferencial não é mais uma lista de tarefas: é o **bip** — o alerta de transição que avisa pouco antes de cada bloco começar, porque a dificuldade costuma não ser saber o que fazer, e sim trocar de contexto na hora certa. Timer visível e sequência sem punição: falhar não pinta nada de vermelho.
 
@@ -95,14 +161,7 @@ PWA instalável com service worker gerado no build e notificações Web Push com
 
 <br/>
 
-### [My Wedding](https://github.com/JoseLuizMendes/My-Wedding-New) &nbsp;<sub>`em produção`</sub>
-
-![Next.js](https://img.shields.io/badge/Next.js-16181d?style=flat-square&logo=nextdotjs&logoColor=f4f6f8&labelColor=0b0c0f)
-![TypeScript](https://img.shields.io/badge/TypeScript-16181d?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0b0c0f)
-![Prisma](https://img.shields.io/badge/Prisma-16181d?style=flat-square&logo=prisma&logoColor=f4f6f8&labelColor=0b0c0f)
-![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-16181d?style=flat-square&logo=mercadopago&logoColor=00B1EA&labelColor=0b0c0f)
-![Vercel Blob](https://img.shields.io/badge/Vercel_Blob-16181d?style=flat-square&logo=vercel&logoColor=f4f6f8&labelColor=0b0c0f)
-![Jest](https://img.shields.io/badge/Jest-16181d?style=flat-square&logo=jest&logoColor=C21325&labelColor=0b0c0f)
+**[My Wedding](https://github.com/JoseLuizMendes/My-Wedding-New)** &nbsp;<sub>`em produção`</sub>
 
 Confirmação de presença para dois eventos, lista de presentes com reserva e fundo de lua de mel com checkout e webhooks do Mercado Pago. Autenticação de convidado por código OTP, upload de fotos com compressão no browser antes de subir para o Vercel Blob, e e-mail transacional.
 
@@ -110,47 +169,38 @@ Usuários, pagamentos e uploads reais — foi o site do meu próprio casamento, 
 
 <br/>
 
-### [Belessence](https://github.com/JoseLuizMendes/Belessence) &nbsp;<sub>`cliente real`</sub>
-
-![Next.js](https://img.shields.io/badge/Next.js-16181d?style=flat-square&logo=nextdotjs&logoColor=f4f6f8&labelColor=0b0c0f)
-![React](https://img.shields.io/badge/React-16181d?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0b0c0f)
-![TypeScript](https://img.shields.io/badge/TypeScript-16181d?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0b0c0f)
-![Prisma](https://img.shields.io/badge/Prisma-16181d?style=flat-square&logo=prisma&logoColor=f4f6f8&labelColor=0b0c0f)
-![Tailwind](https://img.shields.io/badge/Tailwind-16181d?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=0b0c0f)
+**[Belessence](https://github.com/JoseLuizMendes/Belessence)** &nbsp;<sub>`cliente real`</sub>
 
 Catálogo com filtros, carrinho com estado persistente, checkout e painel de gestão de pedidos. UI baseada em componentes para que a proprietária atualize o catálogo sem conhecimento técnico. Mobile-first, adequado a uma marca com aquisição por redes sociais.
 
 <br/>
 
-### [MendeShift](https://github.com/JoseLuizMendes/Mendeshift) &nbsp;<sub>`Real Experience Score 99/100`</sub>
-
-![Next.js](https://img.shields.io/badge/Next.js_16-16181d?style=flat-square&logo=nextdotjs&logoColor=f4f6f8&labelColor=0b0c0f)
-![React Compiler](https://img.shields.io/badge/React_Compiler-16181d?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0b0c0f)
-![GSAP](https://img.shields.io/badge/GSAP-16181d?style=flat-square&logo=greensock&logoColor=0AE448&labelColor=0b0c0f)
-![next-intl](https://img.shields.io/badge/next--intl-16181d?style=flat-square&labelColor=0b0c0f)
-![MDX](https://img.shields.io/badge/MDX_·_Shiki-16181d?style=flat-square&logo=mdx&logoColor=f4f6f8&labelColor=0b0c0f)
-![Upstash](https://img.shields.io/badge/Upstash_Redis-16181d?style=flat-square&logo=upstash&logoColor=00E9A3&labelColor=0b0c0f)
+**[MendeShift](https://github.com/JoseLuizMendes/Mendeshift)** &nbsp;<sub>`Real Experience Score 99/100`</sub>
 
 Medido com usuários reais: 8 ms ao primeiro toque, zero layout shift, TTFB de 0,03 s. GSAP e Lenis em vez de biblioteca de scroll pronta para reduzir bundle, coordenação entre componentes por eventos de DOM sem contexto global, i18n com next-intl e build Docker multi-stage com output standalone.
 
 Blog em MDX com realce de sintaxe via Shiki, formulário de contato com rate limiting em Upstash Redis e envio por Resend.
 
-<br/>
+</details>
+
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="github"></a>
 
 ## `05` &nbsp; GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseLuizMendes&show_icons=true&rank_icon=github&hide_border=true&bg_color=0b0c0f&title_color=ff4d4f&text_color=9aa1ad&icon_color=ff4d4f&ring_color=ff4d4f&card_width=420"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuizMendes&layout=compact&langs_count=8&hide_border=true&bg_color=0b0c0f&title_color=ff4d4f&text_color=9aa1ad&card_width=320"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseLuizMendes&show_icons=true&rank_icon=github&hide_border=true&bg_color=0b0c0f&title_color=ff4d4f&text_color=9aa1ad&icon_color=ff4d4f&ring_color=ff4d4f&card_width=430" alt="Estatísticas do GitHub de José Luiz Mendes"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuizMendes&layout=compact&langs_count=8&hide_border=true&bg_color=0b0c0f&title_color=ff4d4f&text_color=9aa1ad&card_width=330" alt="Linguagens mais usadas"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseLuizMendes&bg_color=0b0c0f&color=f4f6f8&title_color=ff4d4f&line=ff4d4f&point=ff4d4f&area=true&area_color=ff4d4f&hide_border=true&custom_title=Atividade%20dos%20últimos%2031%20dias"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=JoseLuizMendes&hide_border=true&background=0b0c0f&stroke=1e2127&ring=ff4d4f&fire=ff4d4f&currStreakLabel=ff4d4f&sideLabels=9aa1ad&currStreakNum=f4f6f8&sideNums=f4f6f8&dates=5a606b&excludeDaysLabel=5a606b" alt="Sequência de contribuições"/>
 
 </div>
 
-<br/>
+<img src="assets/rule.png" width="100%" alt=""/>
 
 ## `06` &nbsp; Estudando agora
 
@@ -161,12 +211,21 @@ Blog em MDX com realce de sintaxe via Shiki, formulário de contato com rate lim
 
 Mantenho os projetos acima como laboratório porque errar ali é barato e me deixa mais preparado na hora de decidir em produção.
 
-<br/>
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="contato"></a>
 
 <div align="center">
+
+### Aberto a conversar sobre vagas de Engenheiro de Software, Front-end e Web
+
+[![Portfólio](https://img.shields.io/badge/VER_O_PORTFÓLIO-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](https://mende-shift.vercel.app)
+[![Email](https://img.shields.io/badge/MANDAR_UM_EMAIL-ff4d4f?style=for-the-badge&labelColor=0b0c0f&color=16181d)](mailto:josemendess004@gmail.com)
+
 <sub>
 
 **VITÓRIA, ES** &nbsp;·&nbsp; REMOTO OU PRESENCIAL NA GRANDE VITÓRIA &nbsp;·&nbsp; [JOSEMENDESS004@GMAIL.COM](mailto:josemendess004@gmail.com)
 
 </sub>
+
 </div>

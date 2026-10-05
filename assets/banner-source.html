@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:'Bebas Neue';src:url('https://cdn.jsdelivr.net/npm/@fontsource/bebas-neue/files/bebas-neue-latin-400-normal.woff2') format('woff2');font-weight:400}
+@font-face{font-family:'IBM Plex Mono';src:url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-400-normal.woff2') format('woff2');font-weight:400}
+@font-face{font-family:'IBM Plex Mono';src:url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-500-normal.woff2') format('woff2');font-weight:500}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1280px;height:440px}
+body{background:#0b0c0f;font-family:'IBM Plex Mono',monospace;overflow:hidden;position:relative}
+.grid{position:absolute;inset:0;
+  background-image:linear-gradient(to right,rgba(255,255,255,.028) 1px,transparent 1px),
+                   linear-gradient(to bottom,rgba(255,255,255,.028) 1px,transparent 1px);
+  background-size:64px 64px}
+.glow{position:absolute;left:-180px;bottom:-240px;width:760px;height:620px;border-radius:50%;
+  background:radial-gradient(circle,rgba(255,77,79,.16) 0%,rgba(255,77,79,.05) 42%,transparent 70%);filter:blur(18px)}
+.glow2{position:absolute;right:-220px;top:-260px;width:680px;height:560px;border-radius:50%;
+  background:radial-gradient(circle,rgba(255,255,255,.045) 0%,transparent 68%)}
+.noise{position:absolute;inset:0;opacity:.055;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/></filter><rect width='160' height='160' filter='url(%23n)'/></svg>")}
+.wrap{position:relative;padding:50px 60px;height:100%;display:flex}
+.left{display:flex;flex-direction:column;flex:1}
+.right{width:362px;display:flex;flex-direction:column;justify-content:center;gap:1px;
+  border:1px solid #1e2127;border-radius:3px;background:#1e2127;align-self:center;overflow:hidden}
+.stat{background:#0e1015;padding:18px 24px;display:flex;align-items:center;gap:18px}
+.stat .n{font-family:'Bebas Neue';font-size:42px;line-height:1;color:#ff4d4f;min-width:112px;letter-spacing:.02em}
+.stat .l{font-size:11.5px;line-height:1.5;color:#8a909c;letter-spacing:.04em;white-space:nowrap}
+.stat .l b{color:#f4f6f8;font-weight:500}
+.eyebrow{font-size:12.5px;font-weight:500;letter-spacing:.26em;text-transform:uppercase;color:#ff4d4f}
+.eyebrow span{color:#6b7280}
+.first{font-family:'Bebas Neue';font-size:50px;letter-spacing:.14em;color:#f4f6f8;line-height:1;margin-top:20px}
+.cells{display:flex;margin-top:12px;border:1px solid #1e2127;width:fit-content;border-radius:3px;overflow:hidden}
+.cell{width:108px;height:138px;display:flex;align-items:center;justify-content:center;
+  border-right:1px solid #1e2127;background:#101216}
+.cell:last-child{border-right:none}
+.cell.tint{background:rgba(255,77,79,.075)}
+.cell b{font-family:'Bebas Neue';font-weight:400;font-size:112px;line-height:1;color:#ff4d4f;transform:translateY(5px)}
+.cell.tint b{color:#ff7173}
+.tag{margin-top:auto;margin-bottom:30px;font-size:15px;color:#9aa1ad;line-height:1.55;letter-spacing:.005em}
+.tag em{color:#f4f6f8;font-style:normal}
+.foot{position:absolute;left:60px;bottom:26px}
+.prompt{font-size:14px;color:#6b7280;letter-spacing:.1em}
+.prompt i{color:#ff4d4f;font-style:normal}
+.caret{display:inline-block;width:9px;height:17px;background:#ff4d4f;vertical-align:-3px;margin-left:6px}
+.rule{position:absolute;left:0;right:0;bottom:0;height:3px;
+  background:linear-gradient(to right,#ff4d4f 0%,#ff4d4f 22%,#1e2127 22%,#1e2127 100%)}
+</style></head><body>
+<div class="grid"></div><div class="glow"></div><div class="glow2"></div><div class="noise"></div>
+<div class="wrap">
+  <div class="left">
+  <div class="eyebrow">Web Developer &nbsp;/&nbsp; Software Engineer <span>&nbsp;·&nbsp; Vitória, Brazil</span></div>
+  <div class="first">JOSÉ LUIZ</div>
+  <div class="cells">
+    <div class="cell"><b>M</b></div><div class="cell"><b>E</b></div><div class="cell"><b>N</b></div>
+    <div class="cell"><b>D</b></div><div class="cell tint"><b>E</b></div><div class="cell tint"><b>S</b></div>
+  </div>
+  <div class="tag">Construo aplicações web e conecto sistemas que <em>não foram feitos para conversar</em>.</div>
+  </div>
+  <div class="right">
+    <div class="stat"><span class="n">−40%</span><span class="l">no prazo de entrega de um<br><b>sistema estadual</b></span></div>
+    <div class="stat"><span class="n">NOTA A</span><span class="l">no SonarQube, em <b>100%</b><br>dos repositórios</span></div>
+    <div class="stat"><span class="n">99/100</span><span class="l">Real Experience Score,<br>com <b>usuários reais</b></span></div>
+  </div>
+</div>
+<div class="foot"><div class="prompt"><i>$</i>&nbsp; full stack · typescript · next.js<span class="caret"></span></div></div>
+<div class="rule"></div>
+</body></html>

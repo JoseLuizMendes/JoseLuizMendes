@@ -1,0 +1,32 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:'Bebas Neue';src:url('../node_modules/@fontsource/bebas-neue/files/bebas-neue-latin-400-normal.woff2') format('woff2')}
+@font-face{font-family:'IBM Plex Mono';src:url('../node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-400-normal.woff2') format('woff2');font-weight:400}
+@font-face{font-family:'IBM Plex Mono';src:url('../node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-500-normal.woff2') format('woff2');font-weight:500}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:460px;height:176px}
+body{background:#0b0c0f;font-family:'IBM Plex Mono',monospace}
+.card{position:relative;width:460px;height:176px;background:#101216;
+  border:1px solid #1e2127;border-radius:7px;overflow:hidden;padding:20px 22px 18px 25px}
+.card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:#ff4d4f}
+.glow{position:absolute;right:-90px;top:-110px;width:280px;height:240px;border-radius:50%;
+  background:radial-gradient(circle,rgba(255,77,79,.13) 0%,transparent 70%)}
+.grid{position:absolute;inset:0;
+  background-image:linear-gradient(to right,rgba(255,255,255,.022) 1px,transparent 1px),
+                   linear-gradient(to bottom,rgba(255,255,255,.022) 1px,transparent 1px);
+  background-size:36px 36px}
+.top{position:relative;display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.name{font-family:'Bebas Neue';font-size:30px;line-height:1;letter-spacing:.055em;color:#f4f6f8}
+.tag{font-size:9.5px;font-weight:500;letter-spacing:.17em;text-transform:uppercase;
+  color:#ff4d4f;border:1px solid rgba(255,77,79,.38);border-radius:3px;padding:4px 8px;white-space:nowrap;
+  background:rgba(255,77,79,.07)}
+.desc{position:relative;margin-top:12px;font-size:11.5px;line-height:1.58;color:#8f96a2;letter-spacing:.004em}
+.desc b{color:#ccd2db;font-weight:500}
+.chips{position:relative;display:flex;flex-wrap:wrap;gap:5px;margin-top:14px}
+.chip{font-size:9.5px;letter-spacing:.055em;color:#aeb4bf;background:#16181d;
+  border:1px solid #23262d;border-radius:3px;padding:3px 7px}
+.chip.k{color:#ff4d4f;border-color:rgba(255,77,79,.38)}
+</style></head><body><div class="card"><div class="grid"></div><div class="glow"></div>
+<div class="top"><div class="name">MENDESHIFT</div><div class="tag">RES 99/100</div></div>
+<div class="desc">Medido com usuários reais: <b>8 ms</b> ao primeiro toque, zero layout shift, TTFB de 0,03 s.</div>
+<div class="chips"><span class="chip k">Next.js 16</span><span class="chip">React Compiler</span><span class="chip">GSAP</span><span class="chip">next-intl</span><span class="chip">MDX · Shiki</span><span class="chip">Upstash</span></div>
+</div></body></html>
