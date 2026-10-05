@@ -139,10 +139,6 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 <a id="projetos"></a>
 </details>
 
-<img src="assets/rule.png" width="100%" alt=""/>
-
-<a id="projetos"></a>
-
 ## `04` &nbsp; Projetos
 
 <table width="100%">
@@ -215,10 +211,6 @@ Blog em MDX com realce de sintaxe via Shiki, formulário de contato com rate lim
 <a id="github"></a>
 </details>
 
-<img src="assets/rule.png" width="100%" alt=""/>
-
-<a id="github"></a>
-
 ## `05` &nbsp; GitHub
 
 <div align="center">
@@ -236,7 +228,6 @@ Blog em MDX com realce de sintaxe via Shiki, formulário de contato com rate lim
 </div>
 
 <img src="assets/rule.png" width="100%" alt=""/>
-<img src="assets/rule.png" width="100%" alt=""/>
 
 ## `06` &nbsp; Estudando agora
 
@@ -247,9 +238,6 @@ Blog em MDX com realce de sintaxe via Shiki, formulário de contato com rate lim
 
 Mantenho os projetos acima como laboratório porque errar ali é barato e me deixa mais preparado na hora de decidir em produção.
 
-<img src="assets/rule.png" width="100%" alt=""/>
-
-<a id="contato"></a>
 <img src="assets/rule.png" width="100%" alt=""/>
 
 <a id="contato"></a>
