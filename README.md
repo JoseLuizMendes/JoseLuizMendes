@@ -121,7 +121,7 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 ## `04` &nbsp; Projetos
 
-<table width="100%" height="200px">
+<table width="100%" height="1000px">
 <tr>
 <td width="50%">
 <img src="assets/art-bipday.jpg" width="100%" alt="BipDay rodando no celular e no desktop"/>
