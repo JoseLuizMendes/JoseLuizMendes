@@ -14,6 +14,10 @@
 
 <br/>
 
+<img src="assets/rule.png" width="100%" alt=""/>
+
+<a id="metodo"></a>
+
 ## `01` &nbsp; Sobre
 
 Desenvolvedor full stack desde 2024. Hoje na **TOTVS**, respondo pela conta de um cliente corporativo de transportes e logística: a plataforma web que a operação usa, as automações em n8n que movem os processos e a integração com o ERP Protheus, que concentra os dados do negócio. Trabalho do levantamento de requisitos ao deploy em produção.
@@ -36,10 +40,6 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 <td width="33%" align="center">Remoto, ou presencial na Grande Vitória</td>
 </tr>
 </table>
-
-<img src="assets/rule.png" width="100%" alt=""/>
-
-<a id="metodo"></a>
 
 <img src="assets/rule.png" width="100%" alt=""/>
 
