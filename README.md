@@ -121,7 +121,7 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 ## `04` &nbsp; Projetos
 
-<table width="100%" height="1000px">
+<table width="100%">
 <tr>
 <td width="50%">
 <img src="assets/art-bipday.jpg" width="100%" alt="BipDay rodando no celular e no desktop"/>
@@ -131,7 +131,7 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 <td width="50%">
 <img src="assets/art-wedding.jpg" width="100%" alt="My Wedding em desktop e mobile"/>
 <br/><br/>
-<a href="https://github.com/JoseLuizMendes/My-Wedding-New"><img src="assets/p-wedding.png" width="100%" alt="My Wedding — RSVP e lista de presentes com checkout Mercado Pago"/></a>
+<a href="https://github.com/JoseLuizMendes/My-Wedding-New"><img src="assets/p-wedding.png" width="100%" height="200px" alt="My Wedding — RSVP e lista de presentes com checkout Mercado Pago"/></a>
 </td>
 </tr>
 <tr>
