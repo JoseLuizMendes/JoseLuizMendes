@@ -14,14 +14,6 @@
 
 <br/>
 
-
-<img src="assets/rule.png" width="100%" alt=""/>
-
-<a id="sobre"></a>
-<img src="assets/rule.png" width="100%" alt=""/>
-
-<a id="sobre"></a>
-
 ## `01` &nbsp; Sobre
 
 Desenvolvedor full stack desde 2024. Hoje na **TOTVS**, respondo pela conta de um cliente corporativo de transportes e logística: a plataforma web que a operação usa, as automações em n8n que movem os processos e a integração com o ERP Protheus, que concentra os dados do negócio. Trabalho do levantamento de requisitos ao deploy em produção.
