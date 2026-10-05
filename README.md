@@ -123,13 +123,13 @@ Gosto de entrar cedo nas discussões técnicas: entender o problema do negócio 
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" height="200px">
 <img src="assets/art-bipday.jpg" width="100%" alt="BipDay rodando no celular e no desktop"/>
 <br/><br/>
 <a href="https://github.com/JoseLuizMendes/rotina-app"><img src="assets/p-bipday.png" width="100%" alt="BipDay — PWA de rotina com alerta de transição, Next.js 16 e Web Push"/></a>
 </td>
 <td width="50%">
-<img src="assets/art-wedding.jpg" width="100%" height="200px" alt="My Wedding em desktop e mobile"/>
+<img src="assets/art-wedding.jpg" width="100%" alt="My Wedding em desktop e mobile"/>
 <br/><br/>
 <a href="https://github.com/JoseLuizMendes/My-Wedding-New"><img src="assets/p-wedding.png" width="100%" alt="My Wedding — RSVP e lista de presentes com checkout Mercado Pago"/></a>
 </td>
