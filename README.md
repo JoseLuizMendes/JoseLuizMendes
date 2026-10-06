@@ -169,7 +169,7 @@ PWA instalável com service worker gerado no build e notificações Web Push com
 
 <br/>
 
-**[My Wedding](https://github.com/JoseLuizMendes/My-Wedding-New)** &nbsp;<sub>`em produção`</sub>
+**My Wedding** &nbsp;<sub>`em produção · repositório privado`</sub>
 
 Confirmação de presença para dois eventos, lista de presentes com reserva e fundo de lua de mel com checkout e webhooks do Mercado Pago. Autenticação de convidado por código OTP, upload de fotos com compressão no browser antes de subir para o Vercel Blob, e e-mail transacional.
 
